@@ -1,0 +1,17 @@
+git init :: "git 명령어를 사용할 수 있게끔 설정"
+    (실행하면 .git이라는 숨긴 폴더가 생성됨)
+
+[pull 수행]
+git pull [원격지주소] main :: 원격저장소 -> 로컬저장소 파일을 가져옴
+
+[commit하는 순서]
+git add . :: "변경사항을 잡아낼 파일을 전체로 잡는다."
+git commit -m "메시지" :: 변경사항 기록 
+    -m "메시지"  => 변경사항 기록하는 메모의 제목
+[push 수행]
+git push [원격지주소] main :: 로컬저장소 -> 원격저장소 변경사항 반영
+
+git branch -m main  => 브랜치 개념 알려드리고 설명드릴 예정
+git config --global user.name "계정아이디"
+git config --global user.email "이메일"
+  => 내가 누구인지 밝혀내는 과정 (아이디, 이메일 제시)
