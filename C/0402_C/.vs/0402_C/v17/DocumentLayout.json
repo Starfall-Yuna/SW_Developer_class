@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DCEDB4-169B-4CB9-8AB1-EC64B81E75E5}|0402_C\\0402_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DCEDB4-169B-4CB9-8AB1-EC64B81E75E5}|0402_C\\0402_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DCEDB4-169B-4CB9-8AB1-EC64B81E75E5}|0402_C\\0402_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DCEDB4-169B-4CB9-8AB1-EC64B81E75E5}|0402_C\\0402_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_introduce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DCEDB4-169B-4CB9-8AB1-EC64B81E75E5}|0402_C\\0402_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\type.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DCEDB4-169B-4CB9-8AB1-EC64B81E75E5}|0402_C\\0402_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_operation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "type.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\type.c",
+              "RelativeDocumentMoniker": "0402_C\\type.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\type.c",
+              "RelativeToolTip": "0402_C\\type.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T02:25:52.186Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ex_operation.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_operation.c",
+              "RelativeDocumentMoniker": "0402_C\\Ex_operation.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_operation.c",
+              "RelativeToolTip": "0402_C\\Ex_operation.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T07:02:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\HelloWorld.c",
+              "RelativeDocumentMoniker": "0402_C\\HelloWorld.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\HelloWorld.c",
+              "RelativeToolTip": "0402_C\\HelloWorld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T00:23:18.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scanf.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\scanf.c",
+              "RelativeDocumentMoniker": "0402_C\\scanf.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\scanf.c",
+              "RelativeToolTip": "0402_C\\scanf.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T04:52:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variable.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Variable.c",
+              "RelativeDocumentMoniker": "0402_C\\Variable.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Variable.c",
+              "RelativeToolTip": "0402_C\\Variable.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T00:41:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex_introduce.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_introduce.c",
+              "RelativeDocumentMoniker": "0402_C\\Ex_introduce.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_introduce.c",
+              "RelativeToolTip": "0402_C\\Ex_introduce.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T03:30:41.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

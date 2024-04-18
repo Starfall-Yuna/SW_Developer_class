@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0401_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5769F75A-6902-44E0-8173-6BB08BCCDF8F}|0401_C\\0401_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0401_C\\0401_C\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5769F75A-6902-44E0-8173-6BB08BCCDF8F}|0401_C\\0401_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0401_C\\0401_C\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variable.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0401_C\\0401_C\\Variable.c",
+              "RelativeDocumentMoniker": "0401_C\\Variable.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0401_C\\0401_C\\Variable.c",
+              "RelativeToolTip": "0401_C\\Variable.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T07:13:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0401_C\\0401_C\\HelloWorld.c",
+              "RelativeDocumentMoniker": "0401_C\\HelloWorld.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0401_C\\0401_C\\HelloWorld.c",
+              "RelativeToolTip": "0401_C\\HelloWorld.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T07:13:04.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

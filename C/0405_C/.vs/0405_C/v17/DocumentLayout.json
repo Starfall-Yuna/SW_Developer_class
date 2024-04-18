@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A558ED1-9E7C-41BB-968B-7F2CD7A465B4}|0405_C\\0405_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_ASCII.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A558ED1-9E7C-41BB-968B-7F2CD7A465B4}|0405_C\\0405_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_2753.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A558ED1-9E7C-41BB-968B-7F2CD7A465B4}|0405_C\\0405_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_14681.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A558ED1-9E7C-41BB-968B-7F2CD7A465B4}|0405_C\\0405_C.vcxproj|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\review.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex_ASCII.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_ASCII.c",
+              "RelativeDocumentMoniker": "0405_C\\Ex_ASCII.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_ASCII.c",
+              "RelativeToolTip": "0405_C\\Ex_ASCII.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T05:06:49.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex_2753.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_2753.c",
+              "RelativeDocumentMoniker": "0405_C\\Ex_2753.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_2753.c",
+              "RelativeToolTip": "0405_C\\Ex_2753.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T03:26:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex_14681.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_14681.c",
+              "RelativeDocumentMoniker": "0405_C\\Ex_14681.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\Ex_14681.c",
+              "RelativeToolTip": "0405_C\\Ex_14681.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T03:14:24.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "review.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\review.c",
+              "RelativeDocumentMoniker": "0405_C\\review.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0405_C\\0405_C\\review.c",
+              "RelativeToolTip": "0405_C\\review.c",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T00:14:08.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

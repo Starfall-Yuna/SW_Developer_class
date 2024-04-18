@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_operation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\type.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex_operation.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_operation.c",
+              "RelativeDocumentMoniker": "Ex_operation.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Ex_operation.c",
+              "RelativeToolTip": "Ex_operation.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T07:07:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variable.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Variable.c",
+              "RelativeDocumentMoniker": "Variable.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\Variable.c",
+              "RelativeToolTip": "Variable.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T07:07:24.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "type.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\type.c",
+              "RelativeDocumentMoniker": "type.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\type.c",
+              "RelativeToolTip": "type.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T07:07:23.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scanf.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\scanf.c",
+              "RelativeDocumentMoniker": "scanf.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\scanf.c",
+              "RelativeToolTip": "scanf.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T07:07:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "0402_C.vcxproj.user",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj.user",
+              "RelativeDocumentMoniker": "0402_C.vcxproj.user",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj.user",
+              "RelativeToolTip": "0402_C.vcxproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-04-02T07:07:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "0402_C.vcxproj.filters",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj.filters",
+              "RelativeDocumentMoniker": "0402_C.vcxproj.filters",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj.filters",
+              "RelativeToolTip": "0402_C.vcxproj.filters",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-02T07:07:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "0402_C.vcxproj",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj",
+              "RelativeDocumentMoniker": "0402_C.vcxproj",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\0402_C.vcxproj",
+              "RelativeToolTip": "0402_C.vcxproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2024-04-02T07:07:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\HelloWorld.c",
+              "RelativeDocumentMoniker": "HelloWorld.c",
+              "ToolTip": "\\\\192.168.0.2\\e\\SW\uAC1C\uBC1C\uC790\uACFC\uC815\\C\\0402_C\\0402_C\\HelloWorld.c",
+              "RelativeToolTip": "HelloWorld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T07:07:10.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
